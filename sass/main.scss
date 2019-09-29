@@ -4,4 +4,10 @@
 
 .carcard {
     @include cardz;
+    }
+
+$font: pink;
+
+p {
+    color: $font;
 }
