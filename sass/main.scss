@@ -1,0 +1,7 @@
+@mixin cardz {
+    float: left;
+}
+
+.carcard {
+    @include cardz;
+}
